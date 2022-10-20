@@ -13,9 +13,9 @@
   </a>
 </p>
 
-- 🔭 I’m currently working at [Memgraph](https://github.com/memgraph/memgraph)
-- 🌱 I’m currently learning C++ 
-- 👯 I’m looking to collaborate on cool projects related to network science
+- 🔭 I’m currently working at [Ericsson](https://www.ericsson.com/en)
+- 🌱 I’m currently learning Erlang and C++ 
+- 👯 I’m looking to collaborate on cool projects related to network science and telecommunications
 - 🤔 I’m looking for help with my sense of humor
 - 💬 Ask me about graph algorithms, anime & cooking!
 - 😄 Pronouns: he/him
