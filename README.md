@@ -13,11 +13,11 @@
   </a>
 </p>
 
-- 🔭 I’m currently working at [Weaviate]([https://www.ericsson.com/en](https://weaviate.io/)) as a Technical Writer and by improving the Developer Experience
+- 🔭 I’m currently working at [Weaviate]([https://www.ericsson.com/en](https://weaviate.io/)) as a Senior Developer Experience Engineer.
 - 🌱 I’m currently working with Python, Java, C# and JavaScript
 - 👯 I’m looking to collaborate on cool projects related to network science, AI/ML, data analysis...
 - 🤔 I’m looking for help with my sense of humor
 - 💬 Ask me about graph algorithms, anime & cooking!
-- ⚡ Fun fact: I am trying to learn Japanese (700+ day streak on Duolingo!) and I'm preparing for a marathon
+- ⚡ Fun fact: I am trying to learn Japanese (900+ day streak on Duolingo!) and I'm preparing for a marathon
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-despot&hide=stars&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
