@@ -19,5 +19,3 @@
 - 💬 Ask me about vector databases, RAG, MCP, documentation engineering, and graph algorithms.
 - 🌍 Croatian · English · German.
 - ⚡ Fun fact: learning Japanese and (slowly) training for a marathon.
-
-[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-despot&hide=stars&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/g-despot)
