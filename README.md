@@ -11,15 +11,6 @@
   <a href="https://www.linkedin.com/in/ivan-g-despot/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" title="linkedin"/>
   </a>
-  <a href="https://x.com/ivan_g_despot">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" title="x"/>
-  </a>
-  <a href="https://gdespot.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium" title="medium"/>
-  </a>
-  <a href="https://stackoverflow.com/users/14674424/ivan-despot">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" title="stackoverflow"/>
-  </a>
 </p>
 
 - 🔭 Working on developer experience for the [Weaviate](https://weaviate.io/) vector database — client libraries (Python, Java, TypeScript, C#), docs-as-code, and an MCP server for agent retrieval.
